@@ -1,3 +1,3 @@
 # streamlit-chatbot
 
-It has a cool Jarvis logo!
+Run with streamlit run streamlit.py.
